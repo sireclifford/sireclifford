@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**sireclifford/sireclifford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m Clifford Owusu
 
-Here are some ideas to get you started:
+🏢 I study with Microverse where I mentor new students and grow as a full stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 My primary skills are JavaScript, C#, React, ASP.Net Core
+
+🦜 I’m on Twitter https://twitter.com/sire_clifford
+
+📫 How to reach me: cliffordowusukwadwo@gmail.com
+
+😄 Pronouns: he/him/his
+
+⚡ Fun fact: I love you
