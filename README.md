@@ -13,3 +13,9 @@ Hi there 👋
 😄 Pronouns: he/him/his
 
 ⚡ Fun fact: I love you
+
+
+<h2 align="center">Github Stats</h2>
+
+| <a href="https://github-readme-stats.vercel.app/api?username=sireclifford"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sireclifford&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Clifford's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=sireclifford"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sireclifford&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
